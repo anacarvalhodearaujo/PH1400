@@ -1,0 +1,3 @@
+<?php
+$nome = "Ana";
+echo "tudo que está entre aspas é uma string!";
